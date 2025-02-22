@@ -80,7 +80,7 @@ df = pd.DataFrame(languages)
 
 ## Other Formats and Datasets
 
-Download CSV, XLSX, JSON and YAML files from [commondata.net/library](https://commondata.net/library/#languages).
+Download CSV, XLSX, JSON and YAML files from [commondata.net/languages](https://commondata.net/languages).
 
 [commondata.net](https://commondata.net) maintains a collection of essential datasets in a variety of formats, including
 python bindings. Check out the full library here: [commondata.net/library](https://commondata.net/library).
