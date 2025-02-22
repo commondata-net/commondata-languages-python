@@ -62,7 +62,7 @@ print(language)
 > Language(name='English', iso1='en', iso2b='eng', iso2t='eng', iso3='eng', scope='Individual', type='Living')
 ```
 
-***Use CLI to lookup a language***
+**Use CLI to lookup a language**
 
 ```bash
 python -m commondata-languages English
